@@ -10,8 +10,3 @@ Features:
 - Student object serialized to JSON
 - Python REST server using Flask
 - Python CLI client
-
-How to run:
-1. pip install -r requirements.txt
-2. python server.py
-3. python client.py
